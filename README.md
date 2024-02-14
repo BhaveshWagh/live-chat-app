@@ -1,4 +1,4 @@
-### Live Demo : <a>live-chat-app-neon.vercel.app/</a>
+### Live Demo : https://live-chat-app-neon.vercel.app/
 
 ## 1. Open Terminal:
 
