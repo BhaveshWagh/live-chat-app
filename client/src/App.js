@@ -3,7 +3,7 @@ import { useState } from "react";
 import io from "socket.io-client";
 import Chat from "./Chat";
 
-const socket = io.connect("https://live-chat-app-qz2n.onrender.com");
+const socket = io.connect("https://live-chat-app-839s.onrender.com");
 
 function App() {
   const [username, setUserName] = useState("");
